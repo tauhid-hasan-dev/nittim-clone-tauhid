@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/nittim-clone-tauhid/static/css/main.24633959.css",
+    "main.js": "/nittim-clone-tauhid/static/js/main.545daae6.js",
+    "static/js/787.da282f9f.chunk.js": "/nittim-clone-tauhid/static/js/787.da282f9f.chunk.js",
+    "index.html": "/nittim-clone-tauhid/index.html",
+    "main.24633959.css.map": "/nittim-clone-tauhid/static/css/main.24633959.css.map",
+    "main.545daae6.js.map": "/nittim-clone-tauhid/static/js/main.545daae6.js.map",
+    "787.da282f9f.chunk.js.map": "/nittim-clone-tauhid/static/js/787.da282f9f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24633959.css",
+    "static/js/main.545daae6.js"
+  ]
+}
